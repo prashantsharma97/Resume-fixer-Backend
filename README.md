@@ -1,6 +1,3 @@
-# resume-fixer / Backend
-Resume Fixer Ai tool, generate description for applying job and using Open-AI for analysing resume and create a key point's strengths, weaknesses, suggestions.
-
 # Resume Fixer using AI
 
 This is a web application that allows users to upload their resumes, generate job descriptions for specific positions, and receive feedback on their resumes, including strengths, weaknesses, and suggestions. The backend is built with Node.js and Express, and the frontend uses React.js. The data is stored in a MySQL database.
