@@ -1,7 +1,7 @@
 const fs = require('fs');
 const db = require('./db');
 
-// Function to analyze resumes using OpenAI all
+// Function to analyze resumes using OpenAI all 
 const analyzeResume = async (openai, filePath) => {
     try {
         const fileContent = fs.readFileSync(filePath, 'utf8');
