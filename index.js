@@ -8,9 +8,9 @@ const fs = require('fs');
 const app = express();
 const port = 3001;
 
-// Initialize OpenAI client
+// Initialize OpenAI client side Key
 const openai = new OpenAIApi({
-    apiKey: 'xyz', /
+    apiKey: 'xyz', 
 });
 
 // Create uploads directory if it doesn't exist
